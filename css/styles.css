@@ -1,0 +1,70 @@
+header
+{
+	text-align:center;
+}
+
+body
+{
+	text-align: center;
+}
+
+footer
+{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+    font-size: 0.666em;
+}
+
+hr
+{
+	width: 81%;
+}
+
+table
+{
+    margin: 0px auto;
+    text-align: center;
+	overflow: auto;
+}
+
+td
+{
+    padding-right: 12px;
+}
+
+
+#img
+{
+	width: 3em;
+}
+
+#title
+{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#scores
+{
+	color: white;
+}
+
+#trophy
+{
+	width: 1em;
+}
+
+#table-header
+{
+	font-style: italic;
+	font-weight: bold;
+    background-color: #351a00
+}
+
+.table-row
+{
+    background-color: #753900
+}
